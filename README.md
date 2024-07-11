@@ -1,5 +1,5 @@
 # Solar System
-![](https://url-da-imagem.com/mercúrio.png)
+![](https://media.licdn.com/dms/image/D4D22AQFRJGeVzvHvAg/feedshare-shrink_2048_1536/0/1720723156761?e=1723680000&v=beta&t=mS2a8V0T_RT3Y8Zj-IbpgYAhYlkHSQgW3eOllX7ZTYo)
 
 
 Neste projeto, foi desenvolvido um modelo do Sistema Solar! Ao utilizar essa aplicação, uma pessoa usuária deverá ser capaz de:
