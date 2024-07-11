@@ -1,10 +1,12 @@
+import '../style/title.css';
+
 type TitlePropos = {
   headline: string
 };
 
 function Title({ headline }: TitlePropos) {
   return (
-    <h2>{ headline }</h2>
+    <h2 className="subtitle">{ headline }</h2>
   );
 }
 

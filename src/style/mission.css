@@ -1,0 +1,13 @@
+.mission_container {
+    background-color: rgba(99, 98, 98, 0.315);
+    margin: 4rem 2rem;
+    border-radius: 10px;
+}
+
+.mission_card_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 4rem;
+}

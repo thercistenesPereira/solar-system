@@ -1,0 +1,25 @@
+.mission_card {
+    border: 1px solid white;
+    border-radius: 10px;
+    width: calc(50% - 1rem);
+    margin-bottom: 1rem;
+    background-color: rgba(46, 45, 45, 0.76);
+}
+
+.card_info {
+    display: flex;
+    padding: 1rem;
+    justify-content: space-between;
+    height: 5rem;
+    align-items: center;
+}
+
+.title_card_mission {
+    padding: 1rem;
+}
+
+.container_year_country {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
