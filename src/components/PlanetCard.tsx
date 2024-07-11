@@ -1,4 +1,9 @@
-function PlanetCard({ planetName, planetImage }) {
+type PlanetProps = {
+  planetName: string;
+  planetImage: string;
+};
+
+function PlanetCard({ planetName, planetImage }: PlanetProps) {
   return (
     <div data-testid="planet-card">
       <p data-testid="planet-name">{ planetName }</p>
