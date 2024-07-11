@@ -1,4 +1,6 @@
-function MissionCard({ name, year, country, destination }) {
+import { MissionType } from '../types/missionType';
+
+function MissionCard({ name, year, country, destination }: MissionType) {
   return (
     <div data-testid="mission-card">
       <p data-testid="mission-name">{ name }</p>
